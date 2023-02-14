@@ -1,26 +1,24 @@
+# Hi there, I'm JeongYeon Kim 👋
 
-# Hi there, I'm [Your Name] 👋
-
-[![Website](https://img.shields.io/badge/website-%23117AC9.svg?&style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.yourwebsite.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?color=%231DA1F2&label=Follow%20%40yourhandle&logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/yourhandle)
-
-## About Me
-
-I'm a software developer with a passion for building elegant, efficient, and scalable solutions. I specialize in [insert your areas of expertise]. When I'm not coding, I enjoy [insert your hobbies or interests].
+I am a college student studying machine learning and backend development. My main programming language is Python, and I am passionate about developing efficient, scalable, and user-friendly applications.
 
 ## Languages and Tools
 
-[Add icons and links to the programming languages, frameworks, and tools that you use.]
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
 ## Projects
 
-[Provide links and short descriptions of your top projects. Include screenshots, demo videos, or other visuals if possible.]
+- [Project 1](https://github.com/username/project1): Short description of the project.
+- [Project 2](https://github.com/username/project2): Short description of the project.
+- [Project 3](https://github.com/username/project3): Short description of the project.
 
 ## Blog
 
-[Include a link to your blog or personal website, where you share your thoughts on industry trends, programming techniques, or other topics of interest.]
+You can find more information and examples of my work on my [blog](https://blueconecell.tistory.com/).
 
 ## Contact Me
 
-[Provide your email address, LinkedIn profile, or other ways for people to get in touch with you.]
-
+Feel free to get in touch with me at kimjeongyeon113@gmail.com. I'm always open to discussing new projects, ideas, or just chatting about technology!
