@@ -9,11 +9,6 @@ I am a college student studying machine learning and backend development. My mai
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
-## Projects
-
-- [Project 1](https://github.com/username/project1): Short description of the project.
-- [Project 2](https://github.com/username/project2): Short description of the project.
-- [Project 3](https://github.com/username/project3): Short description of the project.
 
 ## Blog
 
