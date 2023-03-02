@@ -1,5 +1,8 @@
 # Hi there, I'm JeongYeon Kim 👋
 
+![](https://gh-hits.nomadcoders.workers.dev/view?username=blueconecell&cache)
+
+
 I am a college student studying machine learning and backend development. My main programming language is Python, and I am passionate about developing efficient, scalable, and user-friendly applications.
 
 [My Portpolio](https://blueconecell.github.io/selfMadeWebProject1/)
