@@ -1,4 +1,4 @@
-# Hi there, I'm JeongYeon Kim 👋
+# Hi there, I'm JeongYeon Kim. 👋
 
 ![](https://gh-hits.nomadcoders.workers.dev/view?username=blueconecell&cache)
 
