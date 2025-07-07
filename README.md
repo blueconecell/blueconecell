@@ -43,6 +43,10 @@
 - 💡 **관심사**: 백엔드 아키텍처, 데이터베이스 최적화, 머신러닝
 - 🤝 **협업**: 새로운 프로젝트나 기술 토론을 언제나 환영합니다!
 
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmcreeper113_2)](https://solved.ac/kmcreeper113_2)
+![baekjoon profile](http://mazandi.herokuapp.com/api?handle=kmcreeper113_2&theme=cold)
+
+
 ## 📞 Contact Me
 
 프로젝트 협업이나 기술 토론에 관심이 있으시다면 언제든 연락주세요!  
