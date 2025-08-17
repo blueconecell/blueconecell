@@ -50,4 +50,6 @@
 ## 📞 Contact Me
 
 프로젝트 협업이나 기술 토론에 관심이 있으시다면 언제든 연락주세요!  
-📧 **Email**: kimjeongyeon113@gmail.com
+- 📧 **Email**: kimjeongyeon113@gmail.com
+- **LinkedIn** : [김정연](https://www.linkedin.com/in/%EC%A0%95%EC%97%B0-%EA%B9%80-981835240/)
+
