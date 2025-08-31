@@ -6,7 +6,7 @@
 
 🎓 **SSAFY 13기** (2025.01 ~ 현재)  
 📧 **Contact**: kimjeongyeon113@gmail.com  
-📄 **Resume**: [이력서 보기](https://yellow-shift-686.notion.site/1886ea818dfb804d9b88dbdc7c35bf51)  
+📄 **Resume**: [이력서 보기](https://yellow-shift-686.notion.site/2606ea818dfb80babe93e389b4ab7fa6)  
 
 ## 💻 Tech Stack
 
