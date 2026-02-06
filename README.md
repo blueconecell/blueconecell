@@ -2,11 +2,10 @@
 
 ![](https://gh-hits.nomadcoders.workers.dev/view?username=blueconecell&cache)
 
-안녕하세요! 저는 **자바 스프링 백엔드 개발자**를 꿈꾸는 대학생 김정연입니다. 현재 SSAFY(삼성 청년 소프트웨어 AI 아카데미) 13기에서 공부하고 있으며, 효율적이고 확장 가능한 백엔드 시스템 개발에 열정을 가지고 있습니다.
+안녕하세요! 저는 **자바 스프링 백엔드 개발자**를 꿈꾸는 대학생 김정연입니다.  SSAFY(삼성 청년 소프트웨어 AI 아카데미) 13기에서 공부했으며, 효율적이고 확장 가능한 백엔드 시스템 개발에 열정을 가지고 있습니다.
 
-🎓 **SSAFY 13기** (2025.01 ~ 현재)  
+🎓 **SSAFY 13기** (2025.01 ~ 2026.01)  
 📧 **Contact**: kimjeongyeon113@gmail.com  
-📄 **Resume**: [이력서 보기](https://yellow-shift-686.notion.site/2606ea818dfb80babe93e389b4ab7fa6)  
 <img width="1920" height="1080" alt="김정연  능동적으로 높은 퍼포먼스의 소프트웨어를 개발하는 개발자" src="https://github.com/user-attachments/assets/5834e6ba-2752-4493-a357-24c63972bb4c" />
 
 ## 💻 Tech Stack
@@ -22,13 +21,11 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
 
-### Data Science & ML
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 ## 📜 Certifications
 
 🗣️ **OPIc English IH** (2025.03.07 ~ 2027.03.06)  
+💻 **AWS SAA** (2026.01.28)  
 💻 **정보처리기사** (2024.12.11)  
 📊 **SQLD** (2025.04.04)
 
